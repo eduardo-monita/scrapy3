@@ -28,8 +28,8 @@ while True:
     escolha = int(input())
 
     if escolha == 1:
-        value = int(input("Digite um número inteiro: "))
-        print("Resultado: " + str(exercise_two(value)))
+        value = int(input("\nDigite um número inteiro: "))
+        print("Resultado: " + str(exercise_one(value)))
     elif escolha == 2:
         print("\nDigite uma lista de frases com letras seguidas duplicadas e precione 0 para parar:")
         array_staing = []
