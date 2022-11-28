@@ -1,5 +1,5 @@
 # Scrapy3
-Este é um simples projeto referente ao um teste de processo seletivo.
+Um projeto referente ao um teste de processo seletivo.
 
 ## Requirements
 
@@ -23,5 +23,5 @@ Você pode encontrar os resultados em formato csv do scrapy no seguinte diretór
 
 ### Rodas Exercícios.
 É necessário rodar os seguintes comandos na raiz do projeto e os resultados serão exibidos no terminal.
-- Exercício 1: `spython exercicio_1.py`;
-- Exercício 2: `python exercicio_2.py`.
+Obs: É importante citar que ao rodar o arquivo aparecerá um terminal interativo para preencher os valores.
+- Exercício: `python exercise.py`;
